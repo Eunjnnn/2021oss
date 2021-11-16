@@ -1,3 +1,6 @@
 888888
 from TEST
 
+another.c 대신 test를 수정합니다.
+10 + 2 = ... 12!!!
+
